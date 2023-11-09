@@ -1,0 +1,7 @@
+C:\Users\Данил\source\repos\09.11.23\bin\Debug\09.11.23.exe.config
+C:\Users\Данил\source\repos\09.11.23\bin\Debug\09.11.23.exe
+C:\Users\Данил\source\repos\09.11.23\bin\Debug\09.11.23.pdb
+C:\Users\Данил\source\repos\09.11.23\obj\Debug\09.11.23.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\09.11.23\obj\Debug\09.11.23.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\09.11.23\obj\Debug\09.11.23.exe
+C:\Users\Данил\source\repos\09.11.23\obj\Debug\09.11.23.pdb
